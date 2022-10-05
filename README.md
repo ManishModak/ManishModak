@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ManishModak
-- 👀 I’m interested in ... Games,Anime
+- 👀 I’m interested in ...Creating And Playing Games,Anime
 - 🌱 I’m currently learning ... Java,Cpp
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...manishmodak90@gmail.com
