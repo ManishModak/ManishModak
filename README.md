@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ManishModak
-- 👀 I’m interested in ...Creating,Testing and playing Games,Anime
-- 🌱 I’m currently learning ... Java,Cpp,Flutter
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in ...Creating,Testing and playing Games
+- 🌱 I’m currently learning ... Web Devlopment
+- 💞️ I’m looking to collaborate on ... Any projects that i can help in
 - 📫 How to reach me ...manishmodak90@gmail.com
 
 <!---
