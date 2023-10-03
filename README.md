@@ -6,5 +6,5 @@
 
 ## Top Languages
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=YOUR_USERNAME)](https://github.com/ManishModak/github-readme-stats)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ManishModak)](https://github.com/ManishModak/github-readme-stats)
 
