@@ -24,7 +24,7 @@ Find more themes here: https://github.com/anuraghazra/github-readme-stats/blob/m
 
 ### 👨‍💻 About Me
 
-- 🎓 I'm a graduate **B.E. Information Technology** from I²IT, Pune Batch 2025.
+- 🎓 I'm a graduate in **B.E. Information Technology** from I²IT, Pune Batch 2025.
 - 👨‍💼 I recently completed a **Flutter Developer Internship** at **Sociante Pvt Ltd**, where I led the development of an Automated Parking Management System.
 - 🚀 I'm passionate about building scalable mobile applications and have a strong interest in **Blockchain** and **AI**.
 - 🌱 I’m currently exploring advanced concepts in **Full-Stack Development** and **System Design**.
