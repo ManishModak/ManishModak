@@ -39,7 +39,7 @@
 ### 📊 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ManishModak&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Manish's GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=ManishModak&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Manish's GitHub Stats">
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManishModak&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages">
 </p>
