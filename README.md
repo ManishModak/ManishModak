@@ -1,9 +1,6 @@
-<!-- 
-Hi Manish! This is a more visually appealing README.
-You can customize the colors and styles of the badges and stats cards.
-For example, the `&theme=` parameter on the GitHub Stats cards can be changed to many different themes.
-Find more themes here: https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
--->
+<h1 align="center">
+  <a href="https://drive.google.com/file/d/17q5J8x9A_wqzz_SQxy_IsPgKCFGlJY1Y/view?usp=drive_link" target="_blank"><strong>My Resume</strong></a>
+</h1>
 
 <h1 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Manish Modak</h1>
 <p align="center">
