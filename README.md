@@ -61,6 +61,6 @@
 - **Android Developer Virtual Internship** - *Google for Developers / AICTE*
 - **RDBMS PostgreSQL Training** - *Spoken Tutorial, IIT Bombay*
 ---
-<p align="center"> 
-  <img src="https://gpvc.arturio.dev/ManishModak" alt="profile views">
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=ManishModak&style=flat-square&color=blueviolet" alt="profile views">
 </p>
