@@ -1,49 +1,47 @@
-<h1 align="center">Hi, I'm Manish Modak <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
+<h1 align="center">Hi, I'm Manish Modak 👋</h1>
 
 <p align="center">
-  <strong>Flutter Developer • AI Enthusiast • Hackathon Winner</strong>
+  <strong>Flutter Developer • AI Enthusiast • Hackathon Winner 🏆</strong>
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/manish-modak-dev"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:manishm.techdev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://drive.google.com/file/d/17q5J8x9A_wqzz_SQxy_IsPgKCFGlJY1Y/view"><img src="https://img.shields.io/badge/Resume-4285F4?style=flat-square&logo=googledrive&logoColor=white" alt="Resume"></a>
+  <a href="https://linkedin.com/in/manish-modak-dev">LinkedIn</a> •
+  <a href="mailto:manishm.techdev@gmail.com">Email</a> •
+  <a href="https://drive.google.com/file/d/17q5J8x9A_wqzz_SQxy_IsPgKCFGlJY1Y/view">Resume</a>
 </p>
 
 ---
 
-### 🏆 Featured Projects
+### 👷 What I'm Currently Working On
 
-| Project | Description | Links |
-|---------|-------------|-------|
-| **Parallax Connect** 🥇 | Winner – Gradient Network Hackathon 2026. Local AI mobile app with chat, vision/OCR, web search | [GitHub](https://github.com/ManishModak/parallax-connect-mobile) • [Demo](https://youtu.be/1G5gAEA_tz8) |
-| **Necro-Pet** 💀 | Desktop virtual pet that gamifies coding – file saves feed the beast! | [GitHub](https://github.com/ManishModak/necro-pet) • [Demo](https://youtu.be/VSRB3CIGBws) |
-| **SpecGen** � | AI product spec generator with Crawl4AI scraper (WIP) | [GitHub](https://github.com/ManishModak/specgen-chatbot) |
+- [ManishModak/specgen-chatbot](https://github.com/ManishModak/specgen-chatbot) - AI-powered product spec generator with Crawl4AI scraper
+
+---
+
+### 🌱 Featured Projects
+
+- [Parallax Connect](https://github.com/ManishModak/parallax-connect-mobile) - 🏆 Winner – Gradient Network Hackathon 2026. Mobile app for local AI with chat, vision/OCR, web search | [📺 Demo](https://youtu.be/1G5gAEA_tz8)
+- [Necro-Pet](https://github.com/ManishModak/necro-pet) - Desktop virtual pet that gamifies coding | [📺 Demo](https://youtu.be/VSRB3CIGBws)
+- [Data Hive](https://github.com/ManishModak/data_hive) - Reverse-engineered browser extension reimplemented to run on Docker
 
 ---
 
 ### 📂 Other Projects
 
-[Data Hive](https://github.com/ManishModak/data_hive) • [Smart India Hackathon 2023](https://github.com/ManishModak/Smart-India-Hackathon-2023) • [Flutter Driver App](https://github.com/ManishModak/flutter_driver_app) • [Synq Web Portal](https://github.com/ManishModak/synq-web-portal)
+- [Smart India Hackathon 2023](https://github.com/ManishModak/Smart-India-Hackathon-2023) - Disaster management app with Flutter & Firebase
+- [Flutter Driver App](https://github.com/ManishModak/flutter_driver_app) - Driver app implementation
+- [Synq Web Portal](https://github.com/ManishModak/synq-web-portal) - Web portal project
 
 ---
 
 ### 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,python,firebase,nodejs,react,postgres,git,figma,vscode" />
-</p>
+`Flutter` `Dart` `Python` `Firebase` `Node.js` `React` `PostgreSQL` `Git`
 
 ---
 
-### 🏅 GitHub Trophies
+### 📫 How to reach me
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ManishModak&theme=tokyonight&no-frame=true&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies">
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ManishModak&style=flat-square&color=blueviolet" alt="Profile views">
-</p>
+- LinkedIn: [manish-modak-dev](https://linkedin.com/in/manish-modak-dev)
+- Email: [manishm.techdev@gmail.com](mailto:manishm.techdev@gmail.com)
+- GitHub: [@ManishModak](https://github.com/ManishModak)
