@@ -36,10 +36,10 @@
 
 ---
 
-### 📊 GitHub Stats
+### 🏅 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ManishModak&theme=tokyonight&hide_border=true" alt="GitHub Streak">
+  <img src="https://github-profile-trophy.vercel.app/?username=ManishModak&theme=tokyonight&no-frame=true&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies">
 </p>
 
 ---
