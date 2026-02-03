@@ -45,3 +45,12 @@
 - LinkedIn: [manish-modak-dev](https://linkedin.com/in/manish-modak-dev)
 - Email: [manishm.techdev@gmail.com](mailto:manishm.techdev@gmail.com)
 - GitHub: [@ManishModak](https://github.com/ManishModak)
+
+---
+
+### 📊 GitHub Metrics
+
+<p align="center">
+  <img src="/github-metrics.svg" alt="GitHub Metrics">
+</p>
+
