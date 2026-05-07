@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://linkedin.com/in/manish-modak-dev">LinkedIn</a> •
   <a href="mailto:manishm.techdev@gmail.com">Email</a> •
-  <a href="https://drive.google.com/file/d/17q5J8x9A_wqzz_SQxy_IsPgKCFGlJY1Y/view">Resume</a>
+  <a href="[https://drive.google.com/file/d/17q5J8x9A_wqzz_SQxy_IsPgKCFGlJY1Y/view](https://drive.google.com/file/d/1slkuv37WQXdkBb92HjdjspU1zLMcv-QQ/view?usp=drive_link)">Resume</a>
 </p>
 
 ---
