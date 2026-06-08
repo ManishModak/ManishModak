@@ -1,14 +1,24 @@
 <h1 align="center">Hi, I'm Manish Modak 👋</h1>
 
 <p align="center">
-  <strong>Flutter Developer • AI Enthusiast • Hackathon Winner 🏆</strong>
+  <strong>Flutter Developer • Tech & AI Enthusiast • Curious Human • Hackathon Winner</strong>
 </p>
 
 <p align="center">
   <a href="https://linkedin.com/in/manish-modak-dev">LinkedIn</a> •
   <a href="mailto:manishm.techdev@gmail.com">Email</a> •
+  <a href="https://www.kaggle.com/manishmodak">Kaggle</a> •
+  <a href="https://twitter.com/techdevmanish">Twitter/X</a> •
   <a href="https://drive.google.com/file/d/1slkuv37WQXdkBb92HjdjspU1zLMcv-QQ/view?usp=drive_link">Resume</a>
 </p>
+
+---
+
+### About Me
+
+I don't grind LeetCode — though I respect those who do. It's a solid way to sharpen problem-solving when you're actually thinking through the logic, not just memorizing patterns. My approach is different: I learn best when there's a real goal behind it. Give me a reason to pick something up and I'll go deep. Without that, I'd rather spend the time building something that matters to me.
+
+I believe anything can be learned — there are no limits, only missing motivation. Always happy to help, always open to connect.
 
 ---
 
@@ -45,6 +55,8 @@
 - LinkedIn: [manish-modak-dev](https://linkedin.com/in/manish-modak-dev)
 - Email: [manishm.techdev@gmail.com](mailto:manishm.techdev@gmail.com)
 - GitHub: [@ManishModak](https://github.com/ManishModak)
+- Kaggle: [manishmodak](https://www.kaggle.com/manishmodak)
+- Twitter/X: [@techdevmanish](https://twitter.com/techdevmanish)
 
 ---
 
