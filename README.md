@@ -30,7 +30,7 @@ I believe anything can be learned. There are no limits, only missing motivation.
 
 ### 🌱 Featured Projects
 
-- [Parallax Connect](https://github.com/ManishModak/parallax-connect-mobile) - 🏆 Winner – Gradient Network Hackathon 2026. Mobile app for local AI with chat, vision/OCR, web search | [📺 Demo](https://youtu.be/1G5gAEA_tz8)
+- [Parallax Connect](https://github.com/ManishModak/parallax-connect-mobile) - 🏆 Winner – Gradient Network Hackathon 2026. Mobile app for local AI with chat, vision/OCR, web search | [🤖 Google Play](https://play.google.com/store/apps/details?id=com.ourora.connect&hl=en_IN) | [🐦 X Post](https://x.com/0p3nsky_/status/2055249561841795282) | [📺 Demo](https://youtu.be/1G5gAEA_tz8)
 - [Necro-Pet](https://github.com/ManishModak/necro-pet) - Desktop virtual pet that gamifies coding | [📺 Demo](https://youtu.be/VSRB3CIGBws)
 - [Data Hive](https://github.com/ManishModak/data_hive) - Reverse-engineered browser extension reimplemented to run on Docker
 

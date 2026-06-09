@@ -1,0 +1,381 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Manish Modak — Flutter Developer, Tech & AI Enthusiast</title>
+  <meta name="description" content="Portfolio of Manish Modak. Flutter developer, tech & AI enthusiast, curious human, and recently won hackathon. Building things that matter.">
+  <meta name="author" content="Manish Modak">
+  <meta name="theme-color" content="#0a0a0f">
+
+  <!-- Open Graph -->
+  <meta property="og:title" content="Manish Modak — Portfolio">
+  <meta property="og:description" content="Flutter developer, tech & AI enthusiast, curious human. Building things that matter.">
+  <meta property="og:type" content="website">
+
+  <!-- Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600&family=JetBrains+Mono:wght@400;500&family=Space+Grotesk:wght@400;500;600;700&display=swap" rel="stylesheet">
+
+  <!-- Styles -->
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+  <!-- Flow Field Background -->
+  <canvas id="flowfield-canvas"></canvas>
+
+  <div class="content-wrapper">
+
+    <!-- Navigation -->
+    <nav class="nav" id="nav">
+      <a href="#" class="nav-logo">mm.</a>
+      <ul class="nav-links">
+        <li><a href="#about" class="nav-link">About</a></li>
+        <li><a href="#experience" class="nav-link">Experience</a></li>
+        <li><a href="#projects" class="nav-link">Projects</a></li>
+        <li><a href="#stack" class="nav-link">Stack</a></li>
+        <li><a href="#contact" class="nav-link">Contact</a></li>
+      </ul>
+    </nav>
+
+    <!-- Hero -->
+    <section class="hero" id="hero">
+      <div class="hero-content">
+        <p class="hero-greeting">Hi, I'm</p>
+        <h1 class="hero-name">Manish Modak</h1>
+        <p class="hero-tagline">
+          Flutter Developer <span>&middot;</span> Tech & AI Enthusiast <span>&middot;</span> Curious Human <span>&middot;</span> Recently Won Hackathon
+        </p>
+        <div class="hero-links">
+          <a href="https://linkedin.com/in/manish-modak-dev" target="_blank" rel="noopener" class="hero-link" id="link-linkedin">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M16 8a6 6 0 0 1 6 6v7h-4v-7a2 2 0 0 0-2-2 2 2 0 0 0-2 2v7h-4v-7a6 6 0 0 1 6-6z"/><rect x="2" y="9" width="4" height="12"/><circle cx="4" cy="4" r="2"/></svg>
+            LinkedIn
+          </a>
+          <a href="mailto:manishm.techdev@gmail.com" class="hero-link" id="link-email">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="4" width="20" height="16" rx="2"/><path d="m22 7-8.97 5.7a1.94 1.94 0 0 1-2.06 0L2 7"/></svg>
+            Email
+          </a>
+          <a href="https://www.kaggle.com/manishmodak" target="_blank" rel="noopener" class="hero-link" id="link-kaggle">
+            <svg viewBox="0 0 24 24" fill="currentColor"><path d="M18.825 23.859a.848.848 0 0 1-.424-.107L12.32 19.2l-1.484 1.537.022 4.124a.848.848 0 0 1-.533.784.85.85 0 0 1-.936-.183L6.863 22.93a.848.848 0 0 1-.248-.6V.848A.848.848 0 0 1 7.463 0h1.696a.85.85 0 0 1 .605.252l8.598 8.598a.848.848 0 0 1-.001 1.2l-3.97 3.957 5.83 5.83a.848.848 0 0 1-.396 1.422z"/></svg>
+            Kaggle
+          </a>
+          <a href="https://twitter.com/techdevmanish" target="_blank" rel="noopener" class="hero-link" id="link-twitter">
+            <svg viewBox="0 0 24 24" fill="currentColor"><path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"/></svg>
+            Twitter/X
+          </a>
+          <a href="https://drive.google.com/file/d/1slkuv37WQXdkBb92HjdjspU1zLMcv-QQ/view?usp=drive_link" target="_blank" rel="noopener" class="hero-link" id="link-resume">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><polyline points="14 2 14 8 20 8"/><line x1="16" y1="13" x2="8" y2="13"/><line x1="16" y1="17" x2="8" y2="17"/><polyline points="10 9 9 9 8 9"/></svg>
+            Resume
+          </a>
+        </div>
+      </div>
+      <div class="scroll-indicator">
+        <span>Scroll</span>
+        <div class="scroll-line"></div>
+      </div>
+    </section>
+
+    <!-- About -->
+    <section id="about">
+      <div class="section-inner">
+        <span class="section-label reveal">01 / About</span>
+        <h2 class="section-title reveal">About Me</h2>
+        <div class="about-card reveal">
+          <div class="about-text">
+            <p>I don't grind LeetCode, though I respect those who do. It's a solid way to sharpen problem-solving when you're actually thinking through the logic, not just memorizing patterns. My approach is different: I learn best when there's a real goal behind it. Give me a reason to pick something up and I'll go deep. Without that, I'd rather spend the time building something that matters to me.</p>
+            <p>I believe anything can be learned. There are no limits, only missing motivation. Always happy to help, always open to connect.</p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Experience -->
+    <section id="experience">
+      <div class="section-inner">
+        <span class="section-label reveal">02 / Experience</span>
+        <h2 class="section-title reveal">Professional Experience</h2>
+        <div class="experience-list">
+
+          <div class="experience-card reveal clickable-card" data-id="ourora">
+            <div class="experience-header">
+              <div>
+                <h3 class="experience-role">Founding Engineer</h3>
+                <a href="https://ourora.in" target="_blank" rel="noopener" class="experience-company">Ourora</a>
+              </div>
+              <span class="experience-duration">Feb 2026 – Present</span>
+            </div>
+            <p class="experience-desc">Leading Flutter development for Android & iOS at a privacy-first couples app, in close collaboration with the founder. Owning architecture decisions for encrypted chat, voice/video, and shared media vault systems.</p>
+            <div class="project-links">
+              <a href="https://play.google.com/store/apps/details?id=com.ourora.connect&hl=en_IN" target="_blank" rel="noopener" class="project-link">
+                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="3" width="18" height="18" rx="2" ry="2"/><polygon points="8.5 7.5 17.5 12 8.5 16.5 8.5 7.5"/></svg>
+                Google Play
+              </a>
+              <a href="https://x.com/0p3nsky_/status/2055249561841795282" target="_blank" rel="noopener" class="project-link">
+                <svg viewBox="0 0 24 24" fill="currentColor"><path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"/></svg>
+                Launch X Post
+              </a>
+            </div>
+          </div>
+
+          <div class="experience-card reveal clickable-card" data-id="khwaaish">
+            <div class="experience-header">
+              <div>
+                <h3 class="experience-role">Lead Flutter Developer</h3>
+                <span class="experience-company">Khwaaish AI / Eastri</span>
+              </div>
+              <span class="experience-duration">Oct 2025 – Present</span>
+            </div>
+            <p class="experience-desc"><strong>Khwaaish AI:</strong> Building personal AI agent app that orders, books, and buys autonomously. Architecting multi-service integration and system design. <br><strong>Eastri:</strong> Implementing optimizations on laundry services app connecting local shops with customers.</p>
+          </div>
+
+          <div class="experience-card reveal clickable-card" data-id="sociante">
+            <div class="experience-header">
+              <div>
+                <h3 class="experience-role">SDE (Flutter) Intern</h3>
+                <a href="https://drive.google.com/file/d/1NO2Im8o_qOnMwfTwqbFCPNMqVFYMAkYi/view?usp=sharing" target="_blank" rel="noopener" class="experience-company">Sociante Pvt Ltd</a>
+              </div>
+              <span class="experience-duration">Oct 2024 – Apr 2025</span>
+            </div>
+            <p class="experience-desc">Enhanced user engagement and operational efficiency via Automated Parking Management System. Crafted responsive UI/UX (40+ screens) and integrated Razorpay, ANPR, and Google Maps API.</p>
+          </div>
+
+        </div>
+      </div>
+    </section>
+
+    <!-- Featured Projects -->
+    <section id="projects">
+      <div class="section-inner">
+        <span class="section-label reveal">03 / Work</span>
+        <h2 class="section-title reveal">Featured Projects</h2>
+        <div class="project-grid">
+
+          <div class="project-card clickable-card" data-id="parallax-connect">
+            <div class="project-header">
+              <a href="https://github.com/ManishModak/parallax-connect-mobile" target="_blank" rel="noopener" class="project-name">Parallax Connect</a>
+              <span class="project-badge">Hackathon Winner</span>
+            </div>
+            <p class="project-desc">Winner at Gradient Network Hackathon 2026. Mobile app for local AI with chat, vision/OCR, and web search capabilities.</p>
+            <div class="project-links">
+              <a href="https://github.com/ManishModak/parallax-connect-mobile" target="_blank" rel="noopener" class="project-link">
+                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M9 19c-5 1.5-5-2.5-7-3m14 6v-3.87a3.37 3.37 0 0 0-.94-2.61c3.14-.35 6.44-1.54 6.44-7A5.44 5.44 0 0 0 20 4.77 5.07 5.07 0 0 0 19.91 1S18.73.65 16 2.48a13.38 13.38 0 0 0-7 0C6.27.65 5.09 1 5.09 1A5.07 5.07 0 0 0 5 4.77a5.44 5.44 0 0 0-1.5 3.78c0 5.42 3.3 6.61 6.44 7A3.37 3.37 0 0 0 9 18.13V22"/></svg>
+                Source
+              </a>
+              <a href="https://youtu.be/1G5gAEA_tz8" target="_blank" rel="noopener" class="project-link">
+                <svg viewBox="0 0 24 24" fill="currentColor"><path d="M19.615 3.184c-3.604-.246-11.631-.245-15.23 0C.488 3.45.029 5.804 0 12c.029 6.185.484 8.549 4.385 8.816 3.6.245 11.626.246 15.23 0C23.512 20.55 23.971 18.196 24 12c-.029-6.185-.484-8.549-4.385-8.816zM9 16V8l8 4-8 4z"/></svg>
+                YT Demo
+              </a>
+            </div>
+          </div>
+
+          <div class="project-card clickable-card" data-id="necro-pet">
+            <div class="project-header">
+              <a href="https://github.com/ManishModak/necro-pet" target="_blank" rel="noopener" class="project-name">Necro-Pet</a>
+            </div>
+            <p class="project-desc">Desktop virtual pet that gamifies coding. Build streaks, level up your pet, and make development sessions more engaging.</p>
+            <div class="project-links">
+              <a href="https://github.com/ManishModak/necro-pet" target="_blank" rel="noopener" class="project-link">
+                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M9 19c-5 1.5-5-2.5-7-3m14 6v-3.87a3.37 3.37 0 0 0-.94-2.61c3.14-.35 6.44-1.54 6.44-7A5.44 5.44 0 0 0 20 4.77 5.07 5.07 0 0 0 19.91 1S18.73.65 16 2.48a13.38 13.38 0 0 0-7 0C6.27.65 5.09 1 5.09 1A5.07 5.07 0 0 0 5 4.77a5.44 5.44 0 0 0-1.5 3.78c0 5.42 3.3 6.61 6.44 7A3.37 3.37 0 0 0 9 18.13V22"/></svg>
+                Source
+              </a>
+              <a href="https://youtu.be/VSRB3CIGBws" target="_blank" rel="noopener" class="project-link">
+                <svg viewBox="0 0 24 24" fill="currentColor"><path d="M19.615 3.184c-3.604-.246-11.631-.245-15.23 0C.488 3.45.029 5.804 0 12c.029 6.185.484 8.549 4.385 8.816 3.6.245 11.626.246 15.23 0C23.512 20.55 23.971 18.196 24 12c-.029-6.185-.484-8.549-4.385-8.816zM9 16V8l8 4-8 4z"/></svg>
+                YT Demo
+              </a>
+            </div>
+          </div>
+
+          <div class="project-card clickable-card" data-id="data-hive">
+            <div class="project-header">
+              <a href="https://github.com/ManishModak/data_hive" target="_blank" rel="noopener" class="project-name">Data Hive</a>
+            </div>
+            <p class="project-desc">Reverse-engineered a browser extension and reimplemented it to run on Docker. Self-hosted data collection without the browser dependency.</p>
+            <div class="project-links">
+              <a href="https://github.com/ManishModak/data_hive" target="_blank" rel="noopener" class="project-link">
+                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M9 19c-5 1.5-5-2.5-7-3m14 6v-3.87a3.37 3.37 0 0 0-.94-2.61c3.14-.35 6.44-1.54 6.44-7A5.44 5.44 0 0 0 20 4.77 5.07 5.07 0 0 0 19.91 1S18.73.65 16 2.48a13.38 13.38 0 0 0-7 0C6.27.65 5.09 1 5.09 1A5.07 5.07 0 0 0 5 4.77a5.44 5.44 0 0 0-1.5 3.78c0 5.42 3.3 6.61 6.44 7A3.37 3.37 0 0 0 9 18.13V22"/></svg>
+                Source
+              </a>
+            </div>
+          </div>
+
+          <div class="project-card clickable-card" data-id="specgen-chatbot">
+            <div class="project-header">
+              <a href="https://github.com/ManishModak/specgen-chatbot" target="_blank" rel="noopener" class="project-name">SpecGen Chatbot</a>
+              <span class="project-badge">In Progress</span>
+            </div>
+            <p class="project-desc">AI-powered product spec generator with a Crawl4AI scraper. Feed it a product page, get a structured specification document.</p>
+            <div class="project-links">
+              <a href="https://github.com/ManishModak/specgen-chatbot" target="_blank" rel="noopener" class="project-link">
+                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M9 19c-5 1.5-5-2.5-7-3m14 6v-3.87a3.37 3.37 0 0 0-.94-2.61c3.14-.35 6.44-1.54 6.44-7A5.44 5.44 0 0 0 20 4.77 5.07 5.07 0 0 0 19.91 1S18.73.65 16 2.48a13.38 13.38 0 0 0-7 0C6.27.65 5.09 1 5.09 1A5.07 5.07 0 0 0 5 4.77a5.44 5.44 0 0 0-1.5 3.78c0 5.42 3.3 6.61 6.44 7A3.37 3.37 0 0 0 9 18.13V22"/></svg>
+                Source
+              </a>
+            </div>
+          </div>
+
+        </div>
+      </div>
+    </section>
+
+    <!-- Other Projects -->
+    <section id="other-projects">
+      <div class="section-inner">
+        <span class="section-label reveal">04 / More</span>
+        <h2 class="section-title reveal">Other Projects</h2>
+        <div class="other-projects">
+
+          <a href="https://github.com/ManishModak/Smart-India-Hackathon-2023" target="_blank" rel="noopener" class="other-project-item">
+            <div>
+              <div class="other-project-name">Smart India Hackathon 2023</div>
+              <div class="other-project-desc">Disaster management app with Flutter & Firebase</div>
+            </div>
+            <span class="other-project-link">
+              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="7" y1="17" x2="17" y2="7"/><polyline points="7 7 17 7 17 17"/></svg>
+            </span>
+          </a>
+
+          <a href="https://github.com/ManishModak/flutter_driver_app" target="_blank" rel="noopener" class="other-project-item">
+            <div>
+              <div class="other-project-name">Flutter Driver App</div>
+              <div class="other-project-desc">Driver app implementation</div>
+            </div>
+            <span class="other-project-link">
+              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="7" y1="17" x2="17" y2="7"/><polyline points="7 7 17 7 17 17"/></svg>
+            </span>
+          </a>
+
+          <a href="https://github.com/ManishModak/synq-web-portal" target="_blank" rel="noopener" class="other-project-item">
+            <div>
+              <div class="other-project-name">Synq Web Portal</div>
+              <div class="other-project-desc">Web portal project</div>
+            </div>
+            <span class="other-project-link">
+              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="7" y1="17" x2="17" y2="7"/><polyline points="7 7 17 7 17 17"/></svg>
+            </span>
+          </a>
+
+        </div>
+      </div>
+    </section>
+
+    <!-- Tech Stack -->
+    <section id="stack">
+      <div class="section-inner">
+        <span class="section-label reveal">05 / Stack</span>
+        <h2 class="section-title reveal">Tech Stack</h2>
+        <div class="tech-pills">
+          <span class="tech-pill">Flutter</span>
+          <span class="tech-pill">Dart</span>
+          <span class="tech-pill">Python</span>
+          <span class="tech-pill">Firebase</span>
+          <span class="tech-pill">Node.js</span>
+          <span class="tech-pill">React</span>
+          <span class="tech-pill">PostgreSQL</span>
+          <span class="tech-pill">Git</span>
+        </div>
+      </div>
+    </section>
+
+    <!-- Contact -->
+    <section id="contact">
+      <div class="section-inner">
+        <span class="section-label reveal">06 / Connect</span>
+        <h2 class="section-title reveal">Get in Touch</h2>
+        <div class="contact-grid">
+
+          <a href="https://linkedin.com/in/manish-modak-dev" target="_blank" rel="noopener" class="contact-item reveal" id="contact-linkedin">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M16 8a6 6 0 0 1 6 6v7h-4v-7a2 2 0 0 0-2-2 2 2 0 0 0-2 2v7h-4v-7a6 6 0 0 1 6-6z"/><rect x="2" y="9" width="4" height="12"/><circle cx="4" cy="4" r="2"/></svg>
+            <div>
+              <span class="contact-label">LinkedIn</span>
+              manish-modak-dev
+            </div>
+          </a>
+
+          <a href="mailto:manishm.techdev@gmail.com" class="contact-item reveal" id="contact-email">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="4" width="20" height="16" rx="2"/><path d="m22 7-8.97 5.7a1.94 1.94 0 0 1-2.06 0L2 7"/></svg>
+            <div>
+              <span class="contact-label">Email</span>
+              manishm.techdev@gmail.com
+            </div>
+          </a>
+
+          <a href="https://github.com/ManishModak" target="_blank" rel="noopener" class="contact-item reveal" id="contact-github">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M9 19c-5 1.5-5-2.5-7-3m14 6v-3.87a3.37 3.37 0 0 0-.94-2.61c3.14-.35 6.44-1.54 6.44-7A5.44 5.44 0 0 0 20 4.77 5.07 5.07 0 0 0 19.91 1S18.73.65 16 2.48a13.38 13.38 0 0 0-7 0C6.27.65 5.09 1 5.09 1A5.07 5.07 0 0 0 5 4.77a5.44 5.44 0 0 0-1.5 3.78c0 5.42 3.3 6.61 6.44 7A3.37 3.37 0 0 0 9 18.13V22"/></svg>
+            <div>
+              <span class="contact-label">GitHub</span>
+              @ManishModak
+            </div>
+          </a>
+
+          <a href="https://www.kaggle.com/manishmodak" target="_blank" rel="noopener" class="contact-item reveal" id="contact-kaggle">
+            <svg viewBox="0 0 24 24" fill="currentColor"><path d="M18.825 23.859a.848.848 0 0 1-.424-.107L12.32 19.2l-1.484 1.537.022 4.124a.848.848 0 0 1-.533.784.85.85 0 0 1-.936-.183L6.863 22.93a.848.848 0 0 1-.248-.6V.848A.848.848 0 0 1 7.463 0h1.696a.85.85 0 0 1 .605.252l8.598 8.598a.848.848 0 0 1-.001 1.2l-3.97 3.957 5.83 5.83a.848.848 0 0 1-.396 1.422z"/></svg>
+            <div>
+              <span class="contact-label">Kaggle</span>
+              manishmodak
+            </div>
+          </a>
+
+          <a href="https://twitter.com/techdevmanish" target="_blank" rel="noopener" class="contact-item reveal" id="contact-twitter">
+            <svg viewBox="0 0 24 24" fill="currentColor"><path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"/></svg>
+            <div>
+              <span class="contact-label">Twitter/X</span>
+              @techdevmanish
+            </div>
+          </a>
+
+        </div>
+      </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="footer">
+      <div class="footer-line"></div>
+      <p>Manish Modak &middot; 2026</p>
+    </footer>
+
+  </div>
+
+  <!-- Full-Screen Project Detail Page -->
+  <div id="detail-page" class="detail-page">
+    <div class="detail-page-inner">
+      <!-- Top bar with breadcrumbs and back -->
+      <header class="detail-topbar" id="detail-topbar">
+        <button class="detail-back-btn" id="detail-back" aria-label="Go back">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="19" y1="12" x2="5" y2="12"/><polyline points="12 19 5 12 12 5"/></svg>
+          <span>Back</span>
+        </button>
+        <nav class="detail-breadcrumbs" id="detail-breadcrumbs" aria-label="Breadcrumb">
+          <!-- Breadcrumbs injected dynamically -->
+        </nav>
+      </header>
+      <!-- Scrollable detail content -->
+      <main class="detail-content" id="detail-body">
+        <!-- Content injected dynamically -->
+      </main>
+    </div>
+  </div>
+
+  <!-- Media Lightbox -->
+  <div id="media-lightbox" class="media-lightbox">
+    <button class="lightbox-close" id="lightbox-close" aria-label="Close preview">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="18" y1="6" x2="6" y2="18"/><line x1="6" y1="6" x2="18" y2="18"/></svg>
+    </button>
+    <button class="lightbox-nav lightbox-prev" id="lightbox-prev" aria-label="Previous">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="15 18 9 12 15 6"/></svg>
+    </button>
+    <button class="lightbox-nav lightbox-next" id="lightbox-next" aria-label="Next">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="9 18 15 12 9 6"/></svg>
+    </button>
+    <div class="lightbox-media-wrap" id="lightbox-media"></div>
+    <div class="lightbox-caption" id="lightbox-caption"></div>
+    <div class="lightbox-counter" id="lightbox-counter"></div>
+  </div>
+  <!-- Scripts -->
+  <script src="js/noise.js"></script>
+  <script src="js/flowfield.js"></script>
+  <script src="js/project-details.js"></script>
+  <script src="js/main.js"></script>
+
+</body>
+</html>
