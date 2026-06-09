@@ -5,6 +5,7 @@
 </p>
 
 <p align="center">
+  <a href="https://manishmodak.github.io">Portfolio</a> •
   <a href="https://linkedin.com/in/manish-modak-dev">LinkedIn</a> •
   <a href="mailto:manishm.techdev@gmail.com">Email</a> •
   <a href="https://www.kaggle.com/manishmodak">Kaggle</a> •
