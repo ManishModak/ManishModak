@@ -72,14 +72,14 @@
 
   // Stagger children animation for cards and list items
   function initStaggerCards() {
-    const groups = document.querySelectorAll('.experience-list, .project-grid, .other-projects');
+    const groups = document.querySelectorAll('.experience-list, .project-grid, .other-projects, .about-highlights-column');
 
     groups.forEach((group) => {
       const observer = new IntersectionObserver(
         (entries) => {
           entries.forEach((entry) => {
             if (entry.isIntersecting) {
-              const cards = entry.target.querySelectorAll('.experience-card, .project-card, .other-project-item');
+              const cards = entry.target.querySelectorAll('.experience-card, .project-card, .other-project-item, .about-highlight-card');
               cards.forEach((card, i) => {
                 card.style.transitionDelay = `${i * 120}ms`;
                 card.classList.add('revealed');
