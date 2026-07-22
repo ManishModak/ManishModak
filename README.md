@@ -10,7 +10,7 @@
   <a href="mailto:manishm.techdev@gmail.com">Email</a> •
   <a href="https://www.kaggle.com/manishmodak">Kaggle</a> •
   <a href="https://twitter.com/techdevmanish">Twitter/X</a> •
-  <a href="https://drive.google.com/file/d/1fsa_NR05Jnw4W36JEMsRZ7q1IlxFBIYm/view?usp=sharing">Resume</a>
+  <a href="https://drive.google.com/file/d/1DjU2AdDEz0kz-gb9yD11cXYC-bKsegRI/view?usp=sharing">Resume</a>
 </p>
 
 ---
