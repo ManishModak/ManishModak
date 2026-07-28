@@ -25,12 +25,13 @@ I believe anything can be learned. There are no limits, only missing motivation.
 
 ### 👷 What I'm Currently Working On
 
-- [ManishModak/specgen-chatbot](https://github.com/ManishModak/specgen-chatbot) - AI-powered product spec generator with Crawl4AI scraper
+- [ManishModak/pcbuildsage](https://github.com/ManishModak/pcbuildsage) - Open-source AI PC part picker, agent harness & compatibility checker
 
 ---
 
 ### 🌱 Featured Projects
 
+- [PCBuildSage](https://github.com/ManishModak/pcbuildsage) - Open-source AI PC part picker & agent harness with local price scraping & zero-hallucination rules engine
 - [Parallax Connect](https://github.com/ManishModak/parallax-connect-mobile) - 🏆 Winner – Gradient Network Hackathon 2026. Mobile app for local AI with chat, vision/OCR, web search | [📺 Demo](https://youtu.be/1G5gAEA_tz8)
 - [Necro-Pet](https://github.com/ManishModak/necro-pet) - Desktop virtual pet that gamifies coding | [📺 Demo](https://youtu.be/VSRB3CIGBws)
 - [Data Hive](https://github.com/ManishModak/data_hive) - Reverse-engineered browser extension reimplemented to run on Docker
