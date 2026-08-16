@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Manish Modak 👋</h1>
 
 <p align="center">
-  <strong>Flutter Developer • Tech & AI Enthusiast • Curious Human • Hackathon Winner</strong>
+  <strong>Flutter Developer • Tech & AI Enthusiast • Curious Human</strong>
 </p>
 
 <p align="center">
