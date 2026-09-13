@@ -5,4 +5,4 @@
 - [one-issue-at-a-time](one-issue-at-a-time/SKILL.md): clear, incremental discussion and planning without superficial fixes.
 - [file-pr](file-pr/SKILL.md): concise pull request titles and descriptions that explain the problem and resulting change.
 
-[Agent guidelines](../agent-instructions/.agents/AGENTS.md) include my coding and collaboration preferences.
+[Agent guidelines](../AGENTS.md) include my coding and collaboration preferences.
