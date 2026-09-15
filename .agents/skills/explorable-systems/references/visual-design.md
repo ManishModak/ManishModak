@@ -17,7 +17,9 @@ These examples are deliberately non-exhaustive. Blend forms when it improves und
 
 Use strong hierarchy, restrained colour, purposeful contrast, breathing room and satisfying direct manipulation. An important insight should not require a tour of the interface. State the main question near the view and give one clear action to start.
 
-Let readers reach the useful visual without first reading a technical essay. Use familiar, short labels in the interface; avoid describing the artifact itself with jargon such as “pedagogical explorer.” Put the full specification or evidence table in an accessible expandable section when it would otherwise dominate the page. Simplifying presentation must not remove necessary facts or weaken the underlying model.
+Let readers reach the useful visual without first reading a technical essay. Keep the main explanation concise and put deeper reasoning, specifications and evidence in accessible expandable sections. Keep essential decisions and limitations visible. Simplifying presentation must not remove necessary facts or weaken the underlying model.
+
+The user also liked the presentation of “The Worlds”: warm colours, bold headings, outlined cards, clear navigation, and useful canvas or split views. Preserve that level of visual care while reducing how much information appears at once. Easy reading can still be visually rich and engaging. Choose the structure for the actual topic; do not inherit the reference’s software-as-a-service business sections or treat its layout as mandatory.
 
 Choose sections or tabs when switching perspectives is useful; use progressive reveal for deeper detail; use split view when seeing two views together materially helps. Avoid splitting short explanations into many panels. Motion can communicate a transition or consequence, but must be pausable/reducible when it distracts or obscures inspection.
 

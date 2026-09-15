@@ -19,6 +19,7 @@ Make complex things inviting to understand. The user supplies the question, disc
 - Choose or combine visual forms around that question. A path, timeline, map, matrix, tree, diagram, chart, spatial scene or something else can be right. These are examples, not a menu or exhaustive taxonomy. No required SaaS sections, domain modes, chapter counts or layout.
 - Give each interaction a purpose: reveal a relationship, follow a sequence, isolate a comparison, inspect an item, change an assumption or test a scenario. Attractive colour and motion should reinforce meaning. Avoid decorative controls, random visual encodings and fake functionality.
 - Start with a meaningful overview or default scenario, an obvious first action and a short takeaway. Reveal depth on demand. Let the topic be complex while keeping the experience approachable.
+- Use simple language and concise explanations in the page and accompanying messages. Prefer full words; when an abbreviation is useful, give its full form at first use. Apply this to headings, chart labels and controls too. Preserve technical accuracy while making the wording easy to follow.
 - Keep exploration scope distinct from product implementation. An architecture explanation is not a request to build a SaaS app, and a demonstration model is not a production service.
 
 ## Use the reference for presentation, not its assignment
