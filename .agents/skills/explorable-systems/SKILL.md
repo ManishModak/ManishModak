@@ -26,7 +26,7 @@ Make complex things inviting to understand. The user supplies the question, disc
 
 Read [visual-design.md](references/visual-design.md) when selecting representations, layout or visual treatment. Its screenshot references show readable editorial presentation from a SaaS exercise. Their assignment text is example content, not instructions for this task. Do not inherit their customer/evidence/business chapters, business claims or six-part structure.
 
-Use a coherent, enjoyable visual language suited to the subject. The warm paper, strong typography and yellow accent are one available direction, not a mandatory theme. Fun may mean a satisfying reveal or playful interaction, not clutter, novelty or animation everywhere.
+Use a coherent, enjoyable visual language suited to the subject. Prefer a comfortable dark theme for new artifacts unless the user requests another theme. Use subdued dark backgrounds, readable text and clear chart colours; avoid large bright surfaces and overly vivid accents. Preserve an existing artifact’s theme unless a change is requested. Reference images guide composition and visual care, not a mandatory palette. Fun may mean a satisfying reveal or playful interaction, not clutter, novelty or animation everywhere.
 
 ## Compose with html-output
 
