@@ -10,7 +10,6 @@
   <a href="https://linkedin.com/in/manish-modak-dev">LinkedIn</a> •
   <a href="mailto:modakm.dev@gmail.com">Email</a> •
   <a href="https://www.kaggle.com/manishmodak">Kaggle</a> •
-  <a href="https://x.com/zeingenixx">Twitter/X</a> •
   <a href="https://drive.google.com/file/d/1DjU2AdDEz0kz-gb9yD11cXYC-bKsegRI/view?usp=sharing">Resume</a>
 </p>
 
