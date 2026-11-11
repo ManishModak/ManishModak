@@ -2,15 +2,15 @@
 
 <p align="center">
   I ship production Flutter apps and build AI tools grounded in real data.<br>
-  Founding engineer at <a href="https://ourora.in">Ourora</a>, a couples app with 7k+ downloads. Three-time Kaggle bronze medalist.
+  Founding engineer at <a href="https://ourora.in">Ourora</a>, a couples app with 5K+ downloads on Google Play. Three-time Kaggle bronze medalist.
 </p>
 
 <p align="center">
   <a href="https://manishmodak.github.io">Portfolio</a> •
   <a href="https://linkedin.com/in/manish-modak-dev">LinkedIn</a> •
-  <a href="mailto:manishm.techdev@gmail.com">Email</a> •
+  <a href="mailto:modakm.dev@gmail.com">Email</a> •
   <a href="https://www.kaggle.com/manishmodak">Kaggle</a> •
-  <a href="https://twitter.com/techdevmanish">Twitter/X</a> •
+  <a href="https://x.com/zeingenixx">Twitter/X</a> •
   <a href="https://drive.google.com/file/d/1DjU2AdDEz0kz-gb9yD11cXYC-bKsegRI/view?usp=sharing">Resume</a>
 </p>
 
@@ -26,8 +26,8 @@ I learn best when there's a real goal behind it. Give me a real problem and I'll
 
 | Project | What it is | Proof |
 |---|---|---|
-| **[Ourora Connect](https://manishmodak.github.io/#detail/ourora-connect)** | A private app for couples: end-to-end encrypted chat, a shared memories vault and calls. Took it from alpha to both app stores as founding engineer. | 7k+ downloads<br>[iOS](https://apps.apple.com/us/app/ourora-connect/id6759134873), [Android](https://play.google.com/store/apps/details?id=com.ourora.connect) |
-| **[Black Box](https://manishmodak.github.io/#detail/black-box)** | An agent over one FalkorDB graph of FAA maintenance reports and NTSB accidents, working through 26 MCP tools with a person approving every finding. Graph Hacks 2026, with Divyam. | 225k reports, honest backtest<br>[Code](https://github.com/divyam2356/GraphsHackathon), [Demo](https://youtu.be/knjB0BusVGM) |
+| **[Ourora Connect](https://manishmodak.github.io/#detail/ourora-connect)** | A private app for couples: end-to-end encrypted chat, a shared memories vault and calls. Took it from alpha to both app stores as founding engineer. | 5K+ downloads on Google Play<br>[iOS](https://apps.apple.com/us/app/ourora-connect/id6759134873), [Android](https://play.google.com/store/apps/details?id=com.ourora.connect) |
+| **[Black Box](https://manishmodak.github.io/#detail/black-box)** | An agent over one FalkorDB graph of FAA maintenance reports and NTSB accidents, working through 26 MCP tools with a person approving every finding. Our Graph Hacks 2026 entry, with Divyam. | 225k reports, honest backtest<br>[Code](https://github.com/divyam2356/GraphsHackathon), [Demo](https://youtu.be/knjB0BusVGM) |
 | **[MobileSpec](https://manishmodak.github.io/#detail/mobilespec)** | Phase-aware CPU thread tuning for llama.cpp on Arm Android. | 2.07x faster sustained decode<br>[Code](https://github.com/ManishModak/llama-edge-android), [Demo](https://youtu.be/1F8mwah88rA) |
 | **[Parallax Connect](https://manishmodak.github.io/#detail/parallax-connect)** | A Flutter app that turns a home GPU into a private AI cloud: streaming chat, vision/OCR and web search. | Won Gradient's AI Lab hackathon<br>[Code](https://github.com/ManishModak/parallax-connect-mobile), [Demo](https://youtu.be/1G5gAEA_tz8) |
 | **[PCBuildSage](https://manishmodak.github.io/#detail/pcbuildsage)** | Open-source AI PC planner for parts in stock at Indian retailers. A rules engine, not the model, checks compatibility. | [Live demo](https://pcbuildsage.onrender.com/)<br>[Code](https://github.com/ManishModak/pcbuildsage) |
